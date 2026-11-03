@@ -50,6 +50,16 @@ This is platform for where i manage my life. inspired by Jarvis but has Alexande
 
 </td>
 </tr>
+<td width="50%" valign="top">
+
+####  [Atelier-AI](https://github.com/Happysingh1062003/Atelier-AI)
+ML and AI Visual Lab. Build - Train - Validate - Optimize - Implement 
+
+</td>
+<tr>
+  
+</tr>
+
 </table>
 
 ---
