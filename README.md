@@ -95,16 +95,6 @@ ML and AI Visual Lab. Build - Train - Validate - Optimize - Implement
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happysingh1062003&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 > 💡 *"The best way to learn AI is to build with it."*
